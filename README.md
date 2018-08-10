@@ -10,3 +10,4 @@ A repository of useful datasets:
 - Traffic flows by Borough. Downloaded 10/08/2018, from https://data.london.gov.uk/dataset/traffic-flows-borough
 - Deaths and mortality rates, by borough. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/deaths-and-mortality-ratios-borough
 - Country of birth by borough. Downloaded 10/08/2018, from https://data.london.gov.uk/dataset/country-of-birth
+- London's night time economy. Downloaded 10/08/0281, from https://data.london.gov.uk/dataset/london-night-time-economy

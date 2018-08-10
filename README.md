@@ -22,3 +22,4 @@ A repository of useful datasets:
 - Teenage conception rates, by Borough, 1998 to 2017. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/teenage-conceptions-borough
 - Percentage of people earning low incomes, by Borough, 2008 - 2015. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/percentage-people-low-income-borough
 - Walking and cycling by borough. Downloaded 18/08/2018, from: https://data.london.gov.uk/dataset/walking-and-cycling-borough
+- GSCE results by Borough. Downloaded 18/08/2018 from: https://data.london.gov.uk/dataset/gcse-results-by-borough

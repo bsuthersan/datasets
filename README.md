@@ -26,4 +26,5 @@ A repository of useful datasets:
 - Personal wellbeing by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/subjective-personal-well-being-borough
 - Housing tenure by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/housing-tenure-borough
 - Looked after children by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/children-looked-after-borough
-- Prevalence of child obseity by borough. Downloaded 18/08/2017 from https://data.london.gov.uk/dataset/prevalence-childhood-obesity-borough
+- Prevalence of child obseity by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/prevalence-childhood-obesity-borough
+- Migrants to the UK by decade of arrival. Downloaded 18/08/2018 from: https://data.london.gov.uk/dataset/migrants-united-kingdom-decade-arrival-borough

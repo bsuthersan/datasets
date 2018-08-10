@@ -17,3 +17,4 @@ A repository of useful datasets:
 - Social integration by borough. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/social-integration-by-borough
 - Early Years Foundation Stage Profile Assessment Results. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/early-years-foundation-stage-profile-assessment-results
 - Local authority housing stock. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/local-authority-housing-stock
+- Key Stage 2 results, 2016 and 2017. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/key-stage-2-results-by-borough

@@ -14,3 +14,4 @@ A repository of useful datasets:
 - Internet useage in London. Downloaded 10/08/2018, from https://data.london.gov.uk/dataset/internet-use-borough-and-population-sub-groups
 - Legal abortion rates, England, by area. Downloaded from: https://data.london.gov.uk/dataset/legal-abortion-rates
 - Young people not in education, training or employment (NEET), by area. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/young-people-not-employment-education-or-training-borough
+- Social integration by borough. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/social-integration-by-borough

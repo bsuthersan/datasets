@@ -12,3 +12,4 @@ A repository of useful datasets:
 - Country of birth by borough. Downloaded 10/08/2018, from https://data.london.gov.uk/dataset/country-of-birth
 - London's night time economy. Downloaded 10/08/2018, from https://data.london.gov.uk/dataset/london-night-time-economy
 - Internet useage in London. Downloaded 10/08/2018, from https://data.london.gov.uk/dataset/internet-use-borough-and-population-sub-groups
+- Legal abortion rates, England, by area. Downloaded from: https://data.london.gov.uk/dataset/legal-abortion-rates

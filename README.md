@@ -24,3 +24,4 @@ A repository of useful datasets:
 - Walking and cycling by borough. Downloaded 18/08/2018, from: https://data.london.gov.uk/dataset/walking-and-cycling-borough
 - GSCE results by Borough. Downloaded 18/08/2018 from: https://data.london.gov.uk/dataset/gcse-results-by-borough
 - Personal wellbeing by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/subjective-personal-well-being-borough
+- Housing tenure by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/housing-tenure-borough

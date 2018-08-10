@@ -15,3 +15,4 @@ A repository of useful datasets:
 - Legal abortion rates, England, by area. Downloaded from: https://data.london.gov.uk/dataset/legal-abortion-rates
 - Young people not in education, training or employment (NEET), by area. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/young-people-not-employment-education-or-training-borough
 - Social integration by borough. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/social-integration-by-borough
+- Early Years Foundation Stage Profile Assessment Results. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/early-years-foundation-stage-profile-assessment-results

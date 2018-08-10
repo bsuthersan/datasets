@@ -20,3 +20,4 @@ A repository of useful datasets:
 - Key Stage 2 results, 2016 and 2017. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/key-stage-2-results-by-borough
 - Key Stage 1 results, 2016 and 2017. Downloaded 10/08/2018 from https://data.london.gov.uk/dataset/key-stage-1-results-by-borough
 - Teenage conception rates, by Borough, 1998 to 2017. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/teenage-conceptions-borough
+- Percentage of people earning low incomes, by Borough, 2008 - 2015. Downloaded 10/08/2018 from: https://data.london.gov.uk/dataset/percentage-people-low-income-borough

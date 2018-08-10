@@ -25,3 +25,4 @@ A repository of useful datasets:
 - GSCE results by Borough. Downloaded 18/08/2018 from: https://data.london.gov.uk/dataset/gcse-results-by-borough
 - Personal wellbeing by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/subjective-personal-well-being-borough
 - Housing tenure by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/housing-tenure-borough
+- Looked after children by borough. Downloaded 18/08/2018 from https://data.london.gov.uk/dataset/children-looked-after-borough

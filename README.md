@@ -4,6 +4,8 @@ A repository of useful datasets.
 
 London/UK:
 
+- WLZ_Postcodes: A folder with a list of all postcodes downloaded from Doogl, for Hammersmith and Fulham, Brent, Westminster, and RBKC
+- WLZ_Deprivation: A folder with a list of all deprivation data, downloaded frrom http://imd-by-geo.opendatacommunities.org/imd/2019/area in 2019, for Hammersmith and Fulham, Brent, Westminster, and RBKC
 - English Indices of Deprivation, 2015. Downloaded 10/08/2018 from: https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
 - EU Referendum results, downloaded 10/08/2018, sourced from: https://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/past-elections-and-referendums/eu-referendum/electorate-and-count-information
 - State-funded OFSTED results, correct as at 31st of March 2018, downloaded 10/08/2018 from: https://www.gov.uk/government/statistics/state-funded-schools-inspections-and-outcomes-as-at-31-march-2018
